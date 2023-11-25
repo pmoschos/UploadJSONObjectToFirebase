@@ -16,12 +16,6 @@ The `Warehouse` class represents a warehouse entity with an ID and a description
 
 This repository contains the source code for a Warehouse Management System, an Android application designed to manage and track warehouse operations. The system features data loading from JSON assets and integration with Firebase for real-time data handling.
 
-## Features 🌟
-
-- **Load Data Efficiently**: Load warehouse data from JSON files in the assets folder.
-- **Firebase Integration**: Seamlessly upload and manage warehouse data in real-time with Firebase.
-- **Error Handling**: Robust error handling for file reading and JSON processing.
-
 ## Sample JSON Data 📄
 
 The warehouse data is structured in JSON format as shown below:
@@ -40,6 +34,18 @@ The warehouse data is structured in JSON format as shown below:
 ```bash
 apply plugin: 'com.google.gms.google-services'
 ```
+
+## Instructions 📝
+-- Right click on the app folder of your project
+-- New -> Folder -> Assets Folder
+-- Copy - Paste there your warehouses.json file
+
+## Create Assets folder - Screenshot 📷
+![image](https://github.com/pmoschos/UploadJSONObjectToFirebase/assets/133533759/38b118fd-e268-4220-b6a8-0dbcaee7da18)
+
+## Paste your .json file - Screenshot 📷
+![image](https://github.com/pmoschos/UploadJSONObjectToFirebase/assets/133533759/05726956-1f64-4fd0-8f8e-ed36fe2810a3)
+
 
 ## Getting Started 🚀
 
