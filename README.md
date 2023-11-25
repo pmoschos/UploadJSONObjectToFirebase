@@ -53,7 +53,7 @@ apply plugin: 'com.google.gms.google-services'
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/warehouse-management-system.git
+   git clone https://github.com/pmoschos/UploadJSONObjectToFirebase
    ```
 
 ## Open the project in Android Studio
