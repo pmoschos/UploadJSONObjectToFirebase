@@ -36,9 +36,9 @@ apply plugin: 'com.google.gms.google-services'
 ```
 
 ## Instructions 📝
--- Right click on the app folder of your project
--- New -> Folder -> Assets Folder
--- Copy - Paste there your warehouses.json file
+- Right click on the app folder of your project
+- **New** -> **Folder** -> **Assets Folder**
+- Copy - Paste there your **warehouses.json** file
 
 ## Create Assets folder - Screenshot 📷
 ![image](https://github.com/pmoschos/UploadJSONObjectToFirebase/assets/133533759/38b118fd-e268-4220-b6a8-0dbcaee7da18)
