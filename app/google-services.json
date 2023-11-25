@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1031104519681",
+    "firebase_url": "https://colorfulnotes-33726-default-rtdb.firebaseio.com",
+    "project_id": "colorfulnotes-33726",
+    "storage_bucket": "colorfulnotes-33726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031104519681:android:53e1345c92ba341385ea00",
+        "android_client_info": {
+          "package_name": "gr.aueb.cf.colorfulnotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfoEBnyA3xtJzlOVAnW64J2CitcOcTeLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031104519681:android:91dbe0e5f4bf8e1885ea00",
+        "android_client_info": {
+          "package_name": "pmoschos.uploadjsonobjecttofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfoEBnyA3xtJzlOVAnW64J2CitcOcTeLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
